@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/onlineresume/static/css/main.1c32f03d.chunk.css",
+    "main.js": "/onlineresume/static/js/main.0f9d08f2.chunk.js",
+    "main.js.map": "/onlineresume/static/js/main.0f9d08f2.chunk.js.map",
+    "runtime-main.js": "/onlineresume/static/js/runtime-main.e9292b26.js",
+    "runtime-main.js.map": "/onlineresume/static/js/runtime-main.e9292b26.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/onlineresume/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.4bb28fac.chunk.js": "/onlineresume/static/js/2.4bb28fac.chunk.js",
+    "static/js/2.4bb28fac.chunk.js.map": "/onlineresume/static/js/2.4bb28fac.chunk.js.map",
+    "static/js/3.8f0ecefd.chunk.js": "/onlineresume/static/js/3.8f0ecefd.chunk.js",
+    "static/js/3.8f0ecefd.chunk.js.map": "/onlineresume/static/js/3.8f0ecefd.chunk.js.map",
+    "index.html": "/onlineresume/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/onlineresume/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.1c32f03d.chunk.css.map": "/onlineresume/static/css/main.1c32f03d.chunk.css.map",
+    "static/js/2.4bb28fac.chunk.js.LICENSE.txt": "/onlineresume/static/js/2.4bb28fac.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/onlineresume/static/media/skills_cover.bd8020f7.jpg",
+    "static/media/tejas.1e2d852f.jpg": "/onlineresume/static/media/tejas.1e2d852f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9292b26.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.4bb28fac.chunk.js",
+    "static/css/main.1c32f03d.chunk.css",
+    "static/js/main.0f9d08f2.chunk.js"
+  ]
+}
